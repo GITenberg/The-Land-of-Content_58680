@@ -1,11 +1,16 @@
 _repo: The-Land-of-Content_58680
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58680-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Delano, Edith Barnard
     gutenberg_agent_id: '50096'
     url: http://www.gutenberg.org/2009/agents/50096
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58680#The-Land-of-Content
 gutenberg_issued: '2019-01-13'
 gutenberg_type: Text
 identifiers:
